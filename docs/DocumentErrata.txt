@@ -1,0 +1,31 @@
+
+Document Errata:
+
+PLT-04563_A.0_Lumidigm_M21x_Android_SDK_Quick_Start_Guide.pdf
+Page 5, Section 3 Installation
+AndroidBioSDK_v1.0.0.tar.gz file name is incorrect.  It should be AndroidBioSDK_v0.2.0.tar.gz
+AndroidBioSDK_v1.0.0.zip file name is incorrect.  It should be AndroidBioSDK_v0.2.0.zip
+
+
+PLT-04563_A.0_Lumidigm_M21x_Android_SDK_Quick_Start_Guide.pdf
+Page 6, Section 4 Build the BioSDKExample app, 2.a.
+AndroidBioSDK_v1.0.0 is incorrect.  It should be AndroidBioSDK_v0.2.0
+
+
+PLT-04564_A.0_Lumidigm_M21x_Android_SDK_Source_Code_Example.pdf
+Page 5, Section 3 Installation
+AndroidBioSDK_v1.0.0.tar.gz file name is incorrect.  File name should be AndroidBioSDK_v0.2.0.tar.gz
+AndroidBioSDK_v1.0.0.zip file name is incorrect.  File name should be AndroidBioSDK_v0.2.0.zip
+
+
+PLT-04564_A.0_Lumidigm_M21x_Android_SDK_Source_Code_Example.pdf
+Page 6, Section 4 Project structure
+AndroidBioSDK_v1.0.0.tar.gz or .zip is incorrect.  Should be AndroidBioSDK_v0.2.0.tar.gz or .zip
+biosdk-1.0.0_xxxx.aar is incorrect.  Should be biosdk-0.2.0_xxxx.aar
+BioSDKExample-1.0.0 source code example is incorrect.  Should be BioSDKExample-0.2.0 source code example
+
+
+
+PLT-04564_A.0_Lumidigm_M21x_Android_SDK_Source_Code_Example.pdf
+Page 6, Section 5 Build the BioSDKExample app
+AndroidBioSDK_v1.0.0 is incorrect.  It should be AndroidBioSDK_v0.2.0

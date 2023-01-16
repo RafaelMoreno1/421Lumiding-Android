@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BioSDKExample</string>
+    <string-array name="match_level_array">
+        <item>Conv.</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string-array name="pad_level_array">
+        <item>Conv.</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+</resources>
